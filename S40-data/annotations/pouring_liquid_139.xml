@@ -1,0 +1,19 @@
+<annotation>
+  <filename>pouring_liquid_139.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>pouring_liquid</action>
+    <bndbox>
+      <xmax>205</xmax>
+      <xmin>1</xmin>
+      <ymax>400</ymax>
+      <ymin>48</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>400</height>
+    <width>522</width>
+  </size>
+</annotation>

@@ -1,0 +1,19 @@
+<annotation>
+  <filename>washing_dishes_182.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>washing_dishes</action>
+    <bndbox>
+      <xmax>228</xmax>
+      <xmin>60</xmin>
+      <ymax>333</ymax>
+      <ymin>38</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>402</height>
+    <width>300</width>
+  </size>
+</annotation>

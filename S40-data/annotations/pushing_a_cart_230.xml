@@ -1,0 +1,19 @@
+<annotation>
+  <filename>pushing_a_cart_230.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>pushing_a_cart</action>
+    <bndbox>
+      <xmax>181</xmax>
+      <xmin>65</xmin>
+      <ymax>314</ymax>
+      <ymin>38</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>463</height>
+    <width>300</width>
+  </size>
+</annotation>

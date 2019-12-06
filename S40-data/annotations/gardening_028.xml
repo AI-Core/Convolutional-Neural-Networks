@@ -1,0 +1,19 @@
+<annotation>
+  <filename>gardening_028.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>gardening</action>
+    <bndbox>
+      <xmax>373</xmax>
+      <xmin>187</xmin>
+      <ymax>226</ymax>
+      <ymin>19</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>300</height>
+    <width>428</width>
+  </size>
+</annotation>

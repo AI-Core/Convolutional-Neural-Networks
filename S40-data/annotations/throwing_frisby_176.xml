@@ -1,0 +1,19 @@
+<annotation>
+  <filename>throwing_frisby_176.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>throwing_frisby</action>
+    <bndbox>
+      <xmax>328</xmax>
+      <xmin>240</xmin>
+      <ymax>353</ymax>
+      <ymin>126</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>400</height>
+    <width>408</width>
+  </size>
+</annotation>

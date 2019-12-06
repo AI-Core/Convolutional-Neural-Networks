@@ -1,0 +1,19 @@
+<annotation>
+  <filename>watching_TV_185.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>watching_TV</action>
+    <bndbox>
+      <xmax>600</xmax>
+      <xmin>246</xmin>
+      <ymax>728</ymax>
+      <ymin>239</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>787</height>
+    <width>600</width>
+  </size>
+</annotation>

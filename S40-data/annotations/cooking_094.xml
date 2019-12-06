@@ -1,0 +1,19 @@
+<annotation>
+  <filename>cooking_094.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>cooking</action>
+    <bndbox>
+      <xmax>376</xmax>
+      <xmin>135</xmin>
+      <ymax>300</ymax>
+      <ymin>34</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>300</height>
+    <width>388</width>
+  </size>
+</annotation>

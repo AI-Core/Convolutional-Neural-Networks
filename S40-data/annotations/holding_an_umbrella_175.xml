@@ -1,0 +1,19 @@
+<annotation>
+  <filename>holding_an_umbrella_175.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>holding_an_umbrella</action>
+    <bndbox>
+      <xmax>376</xmax>
+      <xmin>200</xmin>
+      <ymax>372</ymax>
+      <ymin>32</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>400</height>
+    <width>467</width>
+  </size>
+</annotation>

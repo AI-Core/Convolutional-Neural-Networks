@@ -1,0 +1,19 @@
+<annotation>
+  <filename>walking_the_dog_078.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>walking_the_dog</action>
+    <bndbox>
+      <xmax>170</xmax>
+      <xmin>66</xmin>
+      <ymax>338</ymax>
+      <ymin>72</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>375</height>
+    <width>300</width>
+  </size>
+</annotation>

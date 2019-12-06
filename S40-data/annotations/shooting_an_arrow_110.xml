@@ -1,0 +1,19 @@
+<annotation>
+  <filename>shooting_an_arrow_110.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>shooting_an_arrow</action>
+    <bndbox>
+      <xmax>235</xmax>
+      <xmin>177</xmin>
+      <ymax>200</ymax>
+      <ymin>35</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>200</height>
+    <width>268</width>
+  </size>
+</annotation>

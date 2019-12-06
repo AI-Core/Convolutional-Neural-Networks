@@ -1,0 +1,19 @@
+<annotation>
+  <filename>cutting_trees_165.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>cutting_trees</action>
+    <bndbox>
+      <xmax>332</xmax>
+      <xmin>238</xmin>
+      <ymax>277</ymax>
+      <ymin>89</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>300</height>
+    <width>373</width>
+  </size>
+</annotation>

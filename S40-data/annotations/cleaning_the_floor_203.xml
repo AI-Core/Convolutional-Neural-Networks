@@ -1,0 +1,19 @@
+<annotation>
+  <filename>cleaning_the_floor_203.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>cleaning_the_floor</action>
+    <bndbox>
+      <xmax>153</xmax>
+      <xmin>50</xmin>
+      <ymax>496</ymax>
+      <ymin>170</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>534</height>
+    <width>400</width>
+  </size>
+</annotation>

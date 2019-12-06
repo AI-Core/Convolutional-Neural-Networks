@@ -1,0 +1,19 @@
+<annotation>
+  <filename>playing_guitar_055.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>playing_guitar</action>
+    <bndbox>
+      <xmax>226</xmax>
+      <xmin>13</xmin>
+      <ymax>300</ymax>
+      <ymin>23</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>300</height>
+    <width>366</width>
+  </size>
+</annotation>

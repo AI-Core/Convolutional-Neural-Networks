@@ -1,0 +1,19 @@
+<annotation>
+  <filename>drinking_157.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>drinking</action>
+    <bndbox>
+      <xmax>269</xmax>
+      <xmin>18</xmin>
+      <ymax>184</ymax>
+      <ymin>13</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>200</height>
+    <width>269</width>
+  </size>
+</annotation>

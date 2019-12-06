@@ -1,0 +1,19 @@
+<annotation>
+  <filename>waving_hands_188.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>waving_hands</action>
+    <bndbox>
+      <xmax>737</xmax>
+      <xmin>298</xmin>
+      <ymax>500</ymax>
+      <ymin>32</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>500</height>
+    <width>752</width>
+  </size>
+</annotation>

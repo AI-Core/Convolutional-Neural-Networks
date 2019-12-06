@@ -1,0 +1,19 @@
+<annotation>
+  <filename>playing_violin_179.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>playing_violin</action>
+    <bndbox>
+      <xmax>240</xmax>
+      <xmin>1</xmin>
+      <ymax>300</ymax>
+      <ymin>11</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>300</height>
+    <width>474</width>
+  </size>
+</annotation>
