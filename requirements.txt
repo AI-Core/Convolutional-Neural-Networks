@@ -3,4 +3,4 @@ torch
 torchvision
 tensorboard
 matplotlib
-Pillow==2.2.2
+Pillow
