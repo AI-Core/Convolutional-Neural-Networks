@@ -1,0 +1,19 @@
+<annotation>
+  <filename>blowing_bubbles_091.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>blowing_bubbles</action>
+    <bndbox>
+      <xmax>224</xmax>
+      <xmin>26</xmin>
+      <ymax>295</ymax>
+      <ymin>44</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>300</height>
+    <width>434</width>
+  </size>
+</annotation>

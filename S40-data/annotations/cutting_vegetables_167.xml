@@ -1,0 +1,19 @@
+<annotation>
+  <filename>cutting_vegetables_167.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>cutting_vegetables</action>
+    <bndbox>
+      <xmax>165</xmax>
+      <xmin>82</xmin>
+      <ymax>149</ymax>
+      <ymin>11</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>312</height>
+    <width>200</width>
+  </size>
+</annotation>

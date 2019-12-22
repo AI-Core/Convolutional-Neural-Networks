@@ -1,0 +1,19 @@
+<annotation>
+  <filename>looking_through_a_microscope_095.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>looking_through_a_microscope</action>
+    <bndbox>
+      <xmax>373</xmax>
+      <xmin>102</xmin>
+      <ymax>400</ymax>
+      <ymin>69</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>400</height>
+    <width>600</width>
+  </size>
+</annotation>

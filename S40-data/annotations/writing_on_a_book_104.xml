@@ -1,0 +1,19 @@
+<annotation>
+  <filename>writing_on_a_book_104.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>writing_on_a_book</action>
+    <bndbox>
+      <xmax>450</xmax>
+      <xmin>150</xmin>
+      <ymax>273</ymax>
+      <ymin>4</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>300</height>
+    <width>451</width>
+  </size>
+</annotation>

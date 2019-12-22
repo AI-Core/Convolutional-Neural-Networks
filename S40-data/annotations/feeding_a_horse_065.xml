@@ -1,0 +1,19 @@
+<annotation>
+  <filename>feeding_a_horse_065.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>feeding_a_horse</action>
+    <bndbox>
+      <xmax>354</xmax>
+      <xmin>20</xmin>
+      <ymax>686</ymax>
+      <ymin>256</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>686</height>
+    <width>500</width>
+  </size>
+</annotation>

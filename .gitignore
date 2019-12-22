@@ -1,0 +1,4 @@
+.nbgrader.log
+MNIST-data
+.ipynb_checkpoints
+runs

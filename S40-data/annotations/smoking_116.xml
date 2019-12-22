@@ -1,0 +1,19 @@
+<annotation>
+  <filename>smoking_116.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>smoking</action>
+    <bndbox>
+      <xmax>237</xmax>
+      <xmin>79</xmin>
+      <ymax>537</ymax>
+      <ymin>3</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>541</height>
+    <width>400</width>
+  </size>
+</annotation>

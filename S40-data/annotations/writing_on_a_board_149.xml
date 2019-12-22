@@ -1,0 +1,19 @@
+<annotation>
+  <filename>writing_on_a_board_149.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>writing_on_a_board</action>
+    <bndbox>
+      <xmax>397</xmax>
+      <xmin>287</xmin>
+      <ymax>299</ymax>
+      <ymin>107</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>300</height>
+    <width>400</width>
+  </size>
+</annotation>

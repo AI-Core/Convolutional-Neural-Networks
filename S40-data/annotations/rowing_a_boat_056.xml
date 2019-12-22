@@ -1,0 +1,19 @@
+<annotation>
+  <filename>rowing_a_boat_056.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>rowing_a_boat</action>
+    <bndbox>
+      <xmax>505</xmax>
+      <xmin>228</xmin>
+      <ymax>401</ymax>
+      <ymin>98</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>600</height>
+    <width>900</width>
+  </size>
+</annotation>

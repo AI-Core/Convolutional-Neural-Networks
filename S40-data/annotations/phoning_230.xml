@@ -1,0 +1,19 @@
+<annotation>
+  <filename>phoning_230.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>phoning</action>
+    <bndbox>
+      <xmax>216</xmax>
+      <xmin>108</xmin>
+      <ymax>300</ymax>
+      <ymin>82</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>300</height>
+    <width>517</width>
+  </size>
+</annotation>

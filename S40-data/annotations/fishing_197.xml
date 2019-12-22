@@ -1,0 +1,19 @@
+<annotation>
+  <filename>fishing_197.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>fishing</action>
+    <bndbox>
+      <xmax>197</xmax>
+      <xmin>135</xmin>
+      <ymax>284</ymax>
+      <ymin>81</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>400</height>
+    <width>488</width>
+  </size>
+</annotation>

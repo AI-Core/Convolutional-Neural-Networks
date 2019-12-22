@@ -1,0 +1,19 @@
+<annotation>
+  <filename>using_a_computer_136.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>using_a_computer</action>
+    <bndbox>
+      <xmax>465</xmax>
+      <xmin>228</xmin>
+      <ymax>488</ymax>
+      <ymin>231</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>500</height>
+    <width>539</width>
+  </size>
+</annotation>

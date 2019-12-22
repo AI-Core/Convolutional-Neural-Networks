@@ -1,0 +1,19 @@
+<annotation>
+  <filename>jumping_046.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>jumping</action>
+    <bndbox>
+      <xmax>280</xmax>
+      <xmin>42</xmin>
+      <ymax>427</ymax>
+      <ymin>150</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>452</height>
+    <width>300</width>
+  </size>
+</annotation>

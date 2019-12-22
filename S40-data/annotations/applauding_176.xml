@@ -1,0 +1,19 @@
+<annotation>
+  <filename>applauding_176.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>applauding</action>
+    <bndbox>
+      <xmax>252</xmax>
+      <xmin>1</xmin>
+      <ymax>376</ymax>
+      <ymin>79</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>376</height>
+    <width>300</width>
+  </size>
+</annotation>

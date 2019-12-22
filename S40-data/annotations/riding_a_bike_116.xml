@@ -1,0 +1,19 @@
+<annotation>
+  <filename>riding_a_bike_116.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>riding_a_bike</action>
+    <bndbox>
+      <xmax>246</xmax>
+      <xmin>88</xmin>
+      <ymax>345</ymax>
+      <ymin>40</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>400</height>
+    <width>400</width>
+  </size>
+</annotation>

@@ -1,0 +1,19 @@
+<annotation>
+  <filename>looking_through_a_telescope_200.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>looking_through_a_telescope</action>
+    <bndbox>
+      <xmax>258</xmax>
+      <xmin>57</xmin>
+      <ymax>299</ymax>
+      <ymin>20</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>300</height>
+    <width>446</width>
+  </size>
+</annotation>

@@ -1,0 +1,19 @@
+<annotation>
+  <filename>brushing_teeth_054.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>brushing_teeth</action>
+    <bndbox>
+      <xmax>343</xmax>
+      <xmin>106</xmin>
+      <ymax>300</ymax>
+      <ymin>91</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>300</height>
+    <width>534</width>
+  </size>
+</annotation>

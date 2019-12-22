@@ -1,0 +1,19 @@
+<annotation>
+  <filename>texting_message_138.jpg</filename>
+  <folder>Stanford40</folder>
+  <object>
+    <name>person</name>
+    <action>texting_message</action>
+    <bndbox>
+      <xmax>244</xmax>
+      <xmin>59</xmin>
+      <ymax>200</ymax>
+      <ymin>1</ymin>
+    </bndbox>
+  </object>
+  <size>
+    <depth>3</depth>
+    <height>200</height>
+    <width>244</width>
+  </size>
+</annotation>
