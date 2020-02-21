@@ -1,4 +1,6 @@
-# Convolutional-Neural-Networks
+# Convolutional Neural Networks
+
+Start with Convolutional Neural Networks.ipynb and keep following linked next notebooks at the bottom.
 
 ## Installation Instructions:
 **Windows:** If you're using Anaconda, open an Anaconda prompt (might need to run as admin). Navigate to the directory where this repo is, and run the following command:
@@ -7,3 +9,4 @@ If you're not running Anaconda, then simply open a cmd/powershell window in the 
 
 **Mac/Linux:** Navigate to the repo directory, and run the following:
 ```pip install -r requirements.txt```. Note that you may need to change `pip` to `pip3` depending on your default Python environment.
+
